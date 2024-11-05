@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-Mwh4zc8A94bXvfITBLfhOxON.png?st=2024-11-05T14%3A22%3A36Z&se=2024-11-05T16%3A22%3A36Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-04T19%3A26%3A58Z&ske=2024-11-05T19%3A26%3A58Z&sks=b&skv=2024-08-04&sig=8WQuSnBQobsiV/b47P1O/%2BNiNmwbSIFbM5P7aBtBLtw%3D)
+
 Below is a complete task description for a university-level programming assignment where students will create a simple text-based adventure game. This task integrates the learning goals of using data from files to instantiate objects, designing classes, and programming creatively. Each exercise builds on the previous ones to create a cohesive and challenging learning experience.
 
 ---
