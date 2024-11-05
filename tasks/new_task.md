@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-Y8gS5PbHxDS00kaI6qR1mqMS.png?st=2024-11-05T14%3A45%3A52Z&se=2024-11-05T16%3A45%3A52Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-05T01%3A03%3A52Z&ske=2024-11-06T01%3A03%3A52Z&sks=b&skv=2024-08-04&sig=Bm9BNqX954kGiwywGHWyw5dB1HEiU7iCMUqBJpdI128%3D)
+
 ### 📚 Assignment: Building a Text-Based Adventure Game
 
 Welcome to your next programming challenge! In this assignment, you will create a simple text-based adventure game using Java, where players navigate through a series of interconnected rooms, solve puzzles, and encounter characters. By the end of this task, you will have honed your skills in object-oriented programming, file I/O, and creative software design. Get ready to embark on a journey of creativity and technical execution!
