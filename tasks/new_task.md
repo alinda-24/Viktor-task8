@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-rffBCgqw4VeQvyhT8XSd0eML.png?st=2024-11-05T14%3A32%3A10Z&se=2024-11-05T16%3A32%3A10Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-04T20%3A00%3A26Z&ske=2024-11-05T20%3A00%3A26Z&sks=b&skv=2024-08-04&sig=DF4DWsCo%2BLqRvkXLTLmm96r0O9FhAMKSkwjKz45NucE%3D)
+
 Here's a complete task description with exercises structured to guide students through creating a text-based adventure game, focusing on using data from files to instantiate objects, designing classes, and programming creatively:
 
 ---
